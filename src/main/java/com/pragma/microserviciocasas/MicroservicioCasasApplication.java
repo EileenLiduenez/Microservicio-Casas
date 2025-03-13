@@ -1,4 +1,4 @@
-package com.pragma.home360.microserviciocasas;
+package com.pragma.microserviciocasas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.pragma.home360.microserviciocasas;
+package com.pragma.microserviciocasas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
